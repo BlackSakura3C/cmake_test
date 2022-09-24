@@ -53,7 +53,7 @@ cmake阅读资料主要参考了[cmake官方手册](https://cmake.org/cmake/help
 
     > Remember INTERFACE means things that consumers require but the producer doesn't.
     
-    也就是说`INTERFACE`主要是对其他引用该lib的内容起作用，下面这句的意思是，当前文件夹下的所有文件都需要MathFunctions提供的头文件，主要是为了更好的控制lib的链接
+    也就是说`INTERFACE`主要是对其他引用该lib的内容起作用，下面这句的意思是，当前文件夹下的所有文件都需要MathFunctions提供的头文件，主要是为了更好的控制lib的链接，注意这句话是写在对应lib的cmake文件里面的，这里对应的是CMakeLists.txt(2)
     ```cmake
     target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
