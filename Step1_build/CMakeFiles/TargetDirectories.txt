@@ -1,0 +1,14 @@
+/Volumes/SSD/cmake_test/Step1_build/CMakeFiles/Tutorial.dir
+/Volumes/SSD/cmake_test/Step1_build/CMakeFiles/edit_cache.dir
+/Volumes/SSD/cmake_test/Step1_build/CMakeFiles/rebuild_cache.dir
+/Volumes/SSD/cmake_test/Step1_build/CMakeFiles/list_install_components.dir
+/Volumes/SSD/cmake_test/Step1_build/CMakeFiles/install.dir
+/Volumes/SSD/cmake_test/Step1_build/CMakeFiles/install/local.dir
+/Volumes/SSD/cmake_test/Step1_build/CMakeFiles/install/strip.dir
+/Volumes/SSD/cmake_test/Step1_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Volumes/SSD/cmake_test/Step1_build/MathFunctions/CMakeFiles/edit_cache.dir
+/Volumes/SSD/cmake_test/Step1_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Volumes/SSD/cmake_test/Step1_build/MathFunctions/CMakeFiles/list_install_components.dir
+/Volumes/SSD/cmake_test/Step1_build/MathFunctions/CMakeFiles/install.dir
+/Volumes/SSD/cmake_test/Step1_build/MathFunctions/CMakeFiles/install/local.dir
+/Volumes/SSD/cmake_test/Step1_build/MathFunctions/CMakeFiles/install/strip.dir
